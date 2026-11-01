@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Partial downloads
+data/raw/*.part
+
+# Keys and local settings
+*.key
+.env
+
+# macOS
+.DS_Store
